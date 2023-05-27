@@ -1,6 +1,6 @@
 {
   "name": "project1",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^1.4.0",
     "loadsh": "^0.0.4",
-    "project2": "^0.0.4",
+    "project2": "^0.0.5",
     "react": "^18.2.0"
   },
   "gitHead": "d5bff0beb3e5039fd721c5302c372db8c2332b00"
