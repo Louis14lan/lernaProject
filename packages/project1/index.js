@@ -1,7 +1,7 @@
 const _ = require('lodash');
 
 const test1 = (a, b) => {
-  console.log('test 1',  _.cloneDeep({ test1: 'hello' }));
+  console.log('test 1111',  _.cloneDeep({ test1: 'hello' }));
   return a - b;
 }
 
