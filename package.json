@@ -1,5 +1,6 @@
 {
-  "name": "root",
+  "name": "louis96lan-root",
+  "version": "0.0.6",
   "workspaces": [
     "packages/*"
   ],
