@@ -5,7 +5,7 @@ const test1 = (a, b) => {
   return a - b;
 }
 
-test1(8,2);
+test1(10,2);
 module.exports = {
   test1
 };
